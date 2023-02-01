@@ -1,2 +1,2 @@
-# finance-data-analytics-
+# Finance-data-analytics-
 
